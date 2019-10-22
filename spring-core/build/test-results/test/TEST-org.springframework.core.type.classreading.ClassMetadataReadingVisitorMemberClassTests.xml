@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.type.classreading.ClassMetadataReadingVisitorMemberClassTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-18T03:48:52" hostname="DESKTOP-2IKHCH4" time="0.016">
+  <properties/>
+  <testcase name="againstMemberClass()" classname="org.springframework.core.type.classreading.ClassMetadataReadingVisitorMemberClassTests" time="0.004"/>
+  <testcase name="withNoMemberClasses()" classname="org.springframework.core.type.classreading.ClassMetadataReadingVisitorMemberClassTests" time="0.002"/>
+  <testcase name="withNonPublicMemberClasses()" classname="org.springframework.core.type.classreading.ClassMetadataReadingVisitorMemberClassTests" time="0.005"/>
+  <testcase name="withPublicMemberClasses()" classname="org.springframework.core.type.classreading.ClassMetadataReadingVisitorMemberClassTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

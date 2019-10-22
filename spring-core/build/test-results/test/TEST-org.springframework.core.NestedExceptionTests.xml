@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.NestedExceptionTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-18T03:48:50" hostname="DESKTOP-2IKHCH4" time="0.019">
+  <properties/>
+  <testcase name="nestedRuntimeExceptionWithRootCause()" classname="org.springframework.core.NestedExceptionTests" time="0.013"/>
+  <testcase name="nestedCheckedExceptionWithRootCause()" classname="org.springframework.core.NestedExceptionTests" time="0.002"/>
+  <testcase name="nestedRuntimeExceptionWithNoRootCause()" classname="org.springframework.core.NestedExceptionTests" time="0.002"/>
+  <testcase name="nestedCheckedExceptionWithNoRootCause()" classname="org.springframework.core.NestedExceptionTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.io.ResourceTests" tests="22" skipped="1" failures="0" errors="0" timestamp="2019-09-18T03:48:48" hostname="DESKTOP-2IKHCH4" time="0.297">
+  <properties/>
+  <testcase name="readableChannel()" classname="org.springframework.core.io.ResourceTests" time="0.003"/>
+  <testcase name="fileSystemResourceWithRelativePath()" classname="org.springframework.core.io.ResourceTests" time="0.0"/>
+  <testcase name="classPathResourceWithClassLoader()" classname="org.springframework.core.io.ResourceTests" time="0.047"/>
+  <testcase name="classPathResourceWithClass()" classname="org.springframework.core.io.ResourceTests" time="0.064"/>
+  <testcase name="fileSystemResourceWithPlainPath()" classname="org.springframework.core.io.ResourceTests" time="0.0"/>
+  <testcase name="classPathResource()" classname="org.springframework.core.io.ResourceTests" time="0.05"/>
+  <testcase name="urlResourceWithRelativePath()" classname="org.springframework.core.io.ResourceTests" time="0.008"/>
+  <testcase name="inputStreamResourceWithDescription()" classname="org.springframework.core.io.ResourceTests" time="0.0"/>
+  <testcase name="contentLength()" classname="org.springframework.core.io.ResourceTests" time="0.0"/>
+  <testcase name="inputStreamNotFoundOnFileSystemResource()" classname="org.springframework.core.io.ResourceTests" time="0.002"/>
+  <testcase name="abstractResourceExceptions()" classname="org.springframework.core.io.ResourceTests" time="0.003"/>
+  <testcase name="inputStreamResource()" classname="org.springframework.core.io.ResourceTests" time="0.0"/>
+  <testcase name="byteArrayResource()" classname="org.springframework.core.io.ResourceTests" time="0.0"/>
+  <testcase name="readableChannelNotFoundOnFileSystemResource()" classname="org.springframework.core.io.ResourceTests" time="0.003"/>
+  <testcase name="urlResource()" classname="org.springframework.core.io.ResourceTests" time="0.07"/>
+  <testcase name="byteArrayResourceWithDescription()" classname="org.springframework.core.io.ResourceTests" time="0.001"/>
+  <testcase name="fileSystemResource()" classname="org.springframework.core.io.ResourceTests" time="0.015"/>
+  <testcase name="inputStreamNotFoundOnClassPathResource()" classname="org.springframework.core.io.ResourceTests" time="0.002"/>
+  <testcase name="testNonFileResourceExists()" classname="org.springframework.core.io.ResourceTests" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="classPathResourceWithRelativePath()" classname="org.springframework.core.io.ResourceTests" time="0.0"/>
+  <testcase name="readableChannelNotFoundOnClassPathResource()" classname="org.springframework.core.io.ResourceTests" time="0.003"/>
+  <testcase name="fileSystemResourceWithFilePath()" classname="org.springframework.core.io.ResourceTests" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
