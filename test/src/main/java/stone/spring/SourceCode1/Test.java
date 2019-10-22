@@ -6,10 +6,6 @@ public class Test {
 	public static void main(String[] args) {
 		AnnotationConfigApplicationContext applicationContext=new AnnotationConfigApplicationContext(AppConfig.class);
 		UserDao userDao= (UserDao) applicationContext.getBean("userDao");
-		applicationContext.register(UserDao.class);
-		applicationContext.refresh();
-
-
 		userDao.print();
 	}
 }
