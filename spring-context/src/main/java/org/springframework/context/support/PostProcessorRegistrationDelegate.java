@@ -71,7 +71,7 @@ final class PostProcessorRegistrationDelegate {
 					registryProcessors.add(registryProcessor);
 				}
 				else {
-					regularPostProcessors.add(postProcessor);
+					regularPostProcessors.add(postProcessor);	//这里装我们自己定义的BeanFactoryPostProcessor
 				}
 			}
 
