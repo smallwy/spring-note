@@ -5,42 +5,8 @@
     <bookmark url="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/annotation/AspectJAutoProxyRegistrar.java" description="AnnotationMetadata importingClassMetadata, BeanDef..." line="42" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a0edf57-4bb8-449e-ae15-82da9e5122fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/annotation/AnnotationConfigUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/annotation/AnnotationConfigUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/PostProcessorRegistrationDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/PostProcessorRegistrationDelegate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/classes/stone/spring/SourceCode1/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/classes/stone/spring/SourceCode1/Test.class" afterDir="false" />
-    </list>
-    <list id="56830e81-41b6-42b2-8531-5b52c9b96bef" name="No Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spring-note.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/5.6/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/5.6/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/5.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/5.6/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/5.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/5.6/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/5.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/5.6/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/build/libs/buildSrc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/libs/buildSrc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/build/pluginDescriptors/org.springframework.build.api-diff.properties" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/pluginDescriptors/org.springframework.build.api-diff.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/build/pluginDescriptors/org.springframework.build.compile.properties" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/pluginDescriptors/org.springframework.build.compile.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/build/pluginDescriptors/org.springframework.build.optional-dependencies.properties" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/pluginDescriptors/org.springframework.build.optional-dependencies.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/build/pluginDescriptors/org.springframework.build.test-sources.properties" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/pluginDescriptors/org.springframework.build.test-sources.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/build/resources/main/META-INF/gradle-plugins/org.springframework.build.api-diff.properties" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/resources/main/META-INF/gradle-plugins/org.springframework.build.api-diff.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/build/resources/main/META-INF/gradle-plugins/org.springframework.build.compile.properties" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/resources/main/META-INF/gradle-plugins/org.springframework.build.compile.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/build/resources/main/META-INF/gradle-plugins/org.springframework.build.optional-dependencies.properties" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/resources/main/META-INF/gradle-plugins/org.springframework.build.optional-dependencies.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/build/resources/main/META-INF/gradle-plugins/org.springframework.build.test-sources.properties" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build/resources/main/META-INF/gradle-plugins/org.springframework.build.test-sources.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-beans/out/production/classes/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-context/out/production/classes/org/springframework/context/support/SimpleThreadScope$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-context/out/production/classes/org/springframework/context/support/SimpleThreadScope$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-context/out/production/classes/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-context/out/production/classes/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-core/out/production/classes/org/springframework/util/LinkedCaseInsensitiveMap$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-core/out/production/classes/org/springframework/util/LinkedCaseInsensitiveMap$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/classes/META-INF/spring.test.main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/classes/com/thread/DeadLock$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/test/out/production/classes/com/thread/DeadLock$2.class" afterDir="false" />
-    </list>
+    <list default="true" id="4a0edf57-4bb8-449e-ae15-82da9e5122fa" name="Default Changelist" comment="" />
+    <list id="56830e81-41b6-42b2-8531-5b52c9b96bef" name="No Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -181,11 +147,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/src/main/java/stone/spring/SourceCode1/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
               <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/src/main/java/stone/spring/SourceCode1/gitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -280,19 +255,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="195" column="12" lean-forward="true" selection-start-line="195" selection-start-column="12" selection-end-line="195" selection-end-column="12" />
-              <folding>
-                <element signature="e#8153#8154#0" expanded="true" />
-                <element signature="e#8167#8168#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -348,7 +310,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/src/main/java/com/spring/aop/AspectTest.java" />
         <option value="$PROJECT_DIR$/test/src/main/java/stone/spring/Aop/Anno.java" />
         <option value="$PROJECT_DIR$/test/src/main/java/stone/spring/Aop/TargetInface.java" />
         <option value="$PROJECT_DIR$/test/src/main/java/stone/spring/Aop/TargetService.java" />
@@ -399,6 +360,7 @@
         <option value="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" />
         <option value="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/PostProcessorRegistrationDelegate.java" />
         <option value="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/annotation/AnnotationConfigUtils.java" />
+        <option value="$PROJECT_DIR$/test/src/main/java/stone/spring/SourceCode1/gitTest.java" />
       </list>
     </option>
   </component>
@@ -490,6 +452,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="stone" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-note" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stone" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="Ioc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring" type="b2602c69:ProjectViewProjectNode" />
@@ -765,9 +738,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.88579386" visible="true" weight="0.18603411" />
-      <window_info id="Structure" order="1" sideWeight="0.11420613" side_tool="true" visible="true" weight="0.18603411" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83953035" visible="true" weight="0.18603411" />
+      <window_info id="Structure" order="1" sideWeight="0.16046967" side_tool="true" visible="true" weight="0.18603411" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="DB Browser" order="4" />
@@ -777,12 +751,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" weight="0.4095982" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8224947" weight="0.33370537" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.92697227" visible="true" weight="0.19866072" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.92697227" weight="0.58370537" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49840087" weight="0.32924107" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.8512793" weight="0.4564732" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.8022388" weight="0.36049107" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.8022388" visible="true" weight="0.4296875" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.073027715" side_tool="true" weight="0.35825893" />
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4936034" weight="0.13616072" />
@@ -2048,16 +2022,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/BeanFactoryPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="51" column="71" selection-start-line="51" selection-start-column="71" selection-end-line="51" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#2377#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/ConfigurableBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -2442,6 +2406,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/main/java/stone/spring/SourceCode1/gitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
